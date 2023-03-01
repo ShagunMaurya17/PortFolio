@@ -1,0 +1,27 @@
+.skillshere>:nth-child(1){
+    color: var(--orange);
+    font-weight: bold;
+    font-size: 2rem;
+}
+.skills{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+.skills .swiper{
+    overflow: visible!important;
+}
+.skills-slider{
+    margin-top: 3rem;
+    width: 100%;
+}
+.skills-slider .swiper-slide{
+    width: 20rem;
+}
+.skills img{
+    width: 19rem;
+    filter: drop-shadow(-12px 15ppx 13px rgba(0,0,0,0.25));
+    border-radius: 19px;
+}

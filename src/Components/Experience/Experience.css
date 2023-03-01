@@ -1,0 +1,33 @@
+.work{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-top: 4rem;
+}
+.e-right{
+    left: 25rem;
+    display: flex;
+    position: relative;
+    transform: scale(0.45);
+    margin-top: -30rem;
+}
+.s-blur1{
+    top: 15rem;
+    left: -15rem;
+}
+.s-blur2 {
+    top: -4rem;
+    left: 39rem;
+}
+.s-blur3 {
+    top: 7rem;
+    left: 35rem;
+}
+.s-blur4 {
+    top: 9rem;
+    left: 55rem;
+}
+.p-blur5 {
+    top: -7rem;
+    left: 40 rem;
+}

@@ -12,9 +12,10 @@ import Bachpan from '../../img/bachpan.jpeg';
 import glassesimoji from "../../img/glassesimoji.png";
 import Crown from '../../img/crown.png';
 import FloatingDiv from '../FloatingDiv/FloatingDiv';
+import {Link} from 'react-scroll';
 
 import { themeContext } from "../../Context";
-import {useInsertionEffect} from 'react';
+
 
 const Intro = () => {
   const transition = { duration: 2, type: "spring" };
@@ -32,7 +33,10 @@ const Intro = () => {
                     hosting.
                 </span>
             </div>
-            <button className="button i-button">Hire Me</button>
+            <Link to="Contact_form" spy={true} smooth={true}>
+              <button className="button i-button">Hire Me</button>
+            </Link>
+            
 
             <div className="i-icons">
                 <a href="https://github.com/ShagunMaurya17"><img src={Github} alt="" /></a>

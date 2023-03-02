@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.804ef697.css",
+    "main.js": "/PortFolio/static/js/main.b73f6a2a.js",
+    "static/media/Certi.png": "/PortFolio/static/media/Certi.90d1e40f9ad17158a8af.png",
+    "static/media/boy.png": "/PortFolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/bachpan.jpeg": "/PortFolio/static/media/bachpan.50504d076776f23188b7.jpeg",
+    "static/media/c-logo.png": "/PortFolio/static/media/c-logo.2b2276395e116be80813.png",
+    "static/media/glassesimoji.png": "/PortFolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/ShagunMaurya_offcampus.pdf": "/PortFolio/static/media/ShagunMaurya_offcampus.025c131a60cac63916e8.pdf",
+    "static/media/Gumela Regular.otf": "/PortFolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/html.png": "/PortFolio/static/media/html.aab59987a376edab2034.png",
+    "static/media/react.png": "/PortFolio/static/media/react.60daf01b68943de8bf7f.png",
+    "static/media/DTU.png": "/PortFolio/static/media/DTU.e7ad4546538ff64becea.png",
+    "static/media/thumbup.png": "/PortFolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/PortFolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/daya.png": "/PortFolio/static/media/daya.0d9c84c0405444e7ce1e.png",
+    "static/media/crown.png": "/PortFolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/PortFolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/PortFolio/index.html",
+    "main.804ef697.css.map": "/PortFolio/static/css/main.804ef697.css.map",
+    "main.b73f6a2a.js.map": "/PortFolio/static/js/main.b73f6a2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804ef697.css",
+    "static/js/main.b73f6a2a.js"
+  ]
+}
